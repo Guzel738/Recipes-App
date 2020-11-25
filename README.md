@@ -1,4 +1,5 @@
 This application is a platform for finding recipes. The recipe card contains a photo of the dish, the name, information on the number of calories and servings, as well as a list of the necessary ingredients for its preparation.
+
 The following technologies were used: React, Redux, React Hooks, React Bootstrap.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
